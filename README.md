@@ -1,4 +1,6 @@
 # Opptra Discount Engine — Base Implementation
+Live demo: https://discount-engine-assignment-ebon.vercel.app
+
 
 This is the base implementation for the Opptra FDE Intern assignment.
 Fork this repo, complete the tasks in the assignment brief, and submit your GitHub link + Loom.
